@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-04-29T15:34:00Z</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>出发去塞班！(之准备工作)</title>
+    <link rel="alternate" href="http://blog.url.com/2014/04/29/saipan-go-prepare/"/>
+    <id>http://blog.url.com/2014/04/29/saipan-go-prepare/</id>
+    <published>2014-04-29T15:34:00Z</published>
+    <updated>2014-12-29T15:59:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;计划了许久的蜜月之旅即将启程，带着老婆去塞班！Go ！&lt;/p&gt;
+
+&lt;p&gt;个人比较懒，没有非常细心地去做下游玩攻略，就大致翻阅了下各大游记站点，感觉图片是不少，但详细具体的攻略真的不多，直到我找到了一个论坛类的网站——&lt;a href="http://www.daoduoduo.com"&gt;岛多多&lt;/a&gt;。这网站虽然没&lt;a href="http://chanyouji.com/"&gt;蝉游记&lt;/a&gt;一类的酷炫，但实实在在提供了比较丰富的当地信息与游玩攻略，真的非常不错，虽然界面设计一般了点，一个普通论坛的感觉，不过内容真的不错~岛多多，顾名思义，提供的都是各个有名的海岛的旅游信息，论坛里发帖提问什么的还有版主热情回复，有内容才是王道啊!&lt;/p&gt;
+
+&lt;p&gt;根据论坛提供的信息，我就着手准备相关物资了...&lt;/p&gt;
+
+&lt;h3&gt;美元&lt;/h3&gt;
+
+&lt;p&gt;换了1500美元...（最近人民币跌得比较厉害，100美元要624软妹币，55555...）
+&lt;img alt="dollars" src="https://kssm.kuaipandata.com/kss_web/thumb?i=0ZjTum0rEpsk4bvZ14HnMWAjpqhpz6dOP/2ajwkR5/sfU1Q9pNwwHC3mjzgE0ET8&amp;amp;amp;c=XiaoMi&amp;amp;amp;tm=1398781581&amp;amp;amp;w=1024&amp;amp;amp;h=768&amp;amp;amp;s=kt4UmATGwtRKxfhcuMaT8WUQ9CY=&amp;amp;amp;auto_rotate=1" /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是好多年前一位在美国的同学送的CK钱包，之前想用来着的，可是这货只能装美元，软妹币放进去就会露一截在外头...刚好这次可以用起来了，哈哈！
+&lt;img alt="purse" src="https://kssm.kuaipandata.com/kss_web/thumb?i=5NauGwPP2Y8xPtOWeNhTEDDZmxPdhJQPTwJ6KVtKZv1UtVWe3cYmwM+u3YWnL+J9&amp;amp;amp;c=XiaoMi&amp;amp;amp;tm=1398781581&amp;amp;amp;w=1024&amp;amp;amp;h=768&amp;amp;amp;s=ZV12gokJABkPC6D5sxXQVUPoWgA=&amp;amp;amp;auto_rotate=1" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;浮潜三宝&lt;/h3&gt;
+
+&lt;p&gt;你说啥？浮潜三宝是神马？百度一下你就知道...本来想着去塞班之后再租的，可是想想浮潜的呼吸管租用的话总感觉不太卫生，而且我和我老婆都近视啊，度数都还挺高的，浮潜的时候总不能什么都看不见吧，我怕到塞班之后买不到带近视镜片的，就提前淘宝准备起来了~&lt;/p&gt;
+
+&lt;h3&gt;单反&lt;/h3&gt;
+
+&lt;p&gt;哎呀单反好贵好贵好贵，屌丝买不起只能找好心的同事去借了...摆弄了一个晚上感觉还是不大会用，居然没有傻瓜模式让人情何以堪啊！！！
+&lt;img alt="camera" src="https://kssm.kuaipandata.com/kss_web/thumb?i=pyw8KmGk5ygk+dOW8lMp++POEBLF0ICNjeI3aNb53YKiIuLiDS3VgQWXn3SwOdQM&amp;amp;amp;c=XiaoMi&amp;amp;amp;tm=1398781581&amp;amp;amp;w=1024&amp;amp;amp;h=768&amp;amp;amp;s=7drMs0Fm9En5iKsSU97Oy9WiGak=&amp;amp;amp;auto_rotate=1" /&gt;&lt;/p&gt;
+
+&lt;p&gt;大大大后天就要出发啦，真是满心期待呀！&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>九九乘法表</title>
+    <link rel="alternate" href="http://blog.url.com/2014/04/03/jiu-jiu-cheng-fa-biao/"/>
+    <id>http://blog.url.com/2014/04/03/jiu-jiu-cheng-fa-biao/</id>
+    <published>2014-04-03T14:24:00Z</published>
+    <updated>2014-12-29T15:59:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;用&lt;a href="http://highlightjs.org/"&gt;highlight.js&lt;/a&gt;把代码高亮给配置好了，那么就来show一下刚接触ruby时写的九九乘法表吧...我这个人真无聊~(≧▽≦)/~&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="ruby"&gt;1.upto(9) do |i|
+  1.upto(i) do |j|
+    print  &amp;quot;%-12s&amp;quot; % &amp;quot;#{j} X #{i} = #{j*i}&amp;quot;
+  end
+  puts &amp;quot;&amp;quot;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;然后再改写成一行模式,我是有多无聊，多大的人了啊喂...&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="ruby"&gt;1.upto(9){|i| 1.upto(i) {|j| print  &amp;quot;%-12s&amp;quot; % &amp;quot;#{j} X #{i} = #{j*i}&amp;quot;}; puts &amp;quot;&amp;quot;}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;PS.今天申请了个域名，&lt;a href="http://ikoala.me"&gt;ikoala.me&lt;/a&gt;.是不是瞬间高大上了很多呢，哈哈！&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Initial Commit</title>
+    <link rel="alternate" href="http://blog.url.com/2014/04/02/initial-commit/"/>
+    <id>http://blog.url.com/2014/04/02/initial-commit/</id>
+    <published>2014-04-02T15:23:00Z</published>
+    <updated>2014-12-29T15:59:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2&gt;Start...&lt;/h2&gt;
+
+&lt;p&gt;很多时候，不是自己不能做，而是不想做，懒得做。比如一直想用&lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;搭建一个自己的个人博客，直到最近才动手，真是一个重度拖延症患者啊...(＞﹏＜)&lt;/p&gt;
+
+&lt;h2&gt;关于&lt;a href="http://www.middleman.com"&gt;Middleman&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;其实写博客有好多现成的工具，除了像Wordpress这种博客服务之外，可以挂到Github上的静态博客也有诸如Jekyll、Octopress等工具，试过Octopress，也挺方便的，但是总觉得定制起来比较麻烦，Jekyll的话应该更复杂一点，后来听&lt;a href="http://teahour.fm"&gt;Teahour&lt;/a&gt;的时候知道Teahour本身就是用Middleman搭建的，好奇地去它的官网看了下，发现这货完全符合我的预期啊，rails风格api，十分适合像我这样的rails开发者，上手完全没有难度，想改哪里改哪里，非常直观。OK，就是你了！&lt;/p&gt;
+
+&lt;h2&gt;关于Theme&lt;/h2&gt;
+
+&lt;p&gt;呃，虽然我喜欢自己的博客什么都可以定制，但是完全没有艺术细胞的我，在纠结了几天之后还是选了Github上的&lt;a href="http://github.com/muan/scribble"&gt;Scribble&lt;/a&gt;这款主题...哎，没有艺术细胞伤不起。主要是看到&lt;a href="http://chloerei.com/"&gt;Rei&lt;/a&gt;的博客用了这个主题，看着挺简洁的，觉得挺不错的，就选了这个。但是Github上的Scribble主题是基于Jekyll的，我用Middleman的话直接拿过来还用不了，我就把里面的CSS、JS文件都拷贝出来再自行组织了一下，嗯，最后的效果一模一样，挺好。&lt;/p&gt;
+
+&lt;h2&gt;What&amp;#39;s next&lt;/h2&gt;
+
+&lt;p&gt;接下来想用这个博客记录自己用到的一些软件的安装和使用备忘、程序开发过程中的心得体会、生活感想等。&lt;/p&gt;
+
+&lt;p&gt;OK，今天就先到这里。&lt;/p&gt;
+</content>
+  </entry>
+</feed>
